@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        
+        <style>
+            ul{
+                font-family: cursive;
+                font-size: 20;
+                font-weight: 500;
+                font-style: italic;
+            }
+            
+            #p1{
+                font-size: 20;
+                font-weight: 500;
+            }
+        
+        </style>
+    </head>
+    <body>
+        
+        <h1 style = "background-color: Orange; color: white">Magzhan's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>Morning</li>
+            <li>Study</li>
+            <li>Work</li>
+        </ul>
+        
+        <h2 style = "color: blue">First post</h2>
+        <p><strong>Monday</strong></p>
+        So I woke up and made some eggs to the breakfast. I have cleaned up and studied a bit. I was studying Web-Development and Digital-Desig where I am doing well :) <br>
+        After the studies and some classes I went to my work. I work as Support Associate in the Wolt Company. I do my homework just in the night because I can't be in time always :(
+        <h6>8.02.2021</h6>
+        
+        <p id = "p1">P.S. STILL DOING WEB-DEV LABS ):-(</p>
+        
+        
+        <h2 style = "color: blue">Second post</h2>
+        <p><strong>Tuesday</strong></p>
+        I was late to my Philosophy class, I was upset, but one of my friends said there was nothing serious, so that's pretty okay. I feel that my days are just routinefor now, I am very tired :(
+        <h6>9.02.2021</h6>
+        
+        <p id = "p1">P.S.  Labs...</p>
+        
+        
+    </body>
+</html>
