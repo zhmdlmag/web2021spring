@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            .beau {
+                color: blue;
+            }
+            ul {
+                background-color: pink;
+                font-style: oblique ;
+            }
+            
+            h1{
+                font-style: italic;
+                background-color: lime;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to <strong class = "beau"> Beautiful Countries</strong> <a href = "https://poedem.kz/?utm_source=google&utm_medium=cpc&utm_campaign=t_gp_al&utm_content=o1&utm_term=%25D1%2582%25D1%2583%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B5%25D0%25BD%25D1%2582%25D1%2581%25D1%2582%25D0%25B2%25D0%25BE&gclid=CjwKCAiA9vOABhBfEiwATCi7GFslC7XmV128h4rcDPj-_WfzL78m_xV90RwEsQjSVHOO6Sj4Ylb_-BoCp80QAvD_BwE"> with our service!</a></h1>
+        <ul>
+            <li>Hawaii <br> <img src = "https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" width = "400"></li>
+            <br>
+            <li>Zurich lake <br> <img src = "https://www.kasandbox.org/programming-images/landscapes/lake.png" width = "400"></li><br>
+            <li>Kavkaz <br> <img src = "https://www.kasandbox.org/programming-images/landscapes/mountains-and-lake.png" width = "400"></li><br>
+            <p>Other countries you would like to visit can be found <a href="https://poedem.kz/?utm_source=google&utm_medium=cpc&utm_campaign=t_gp_al&utm_content=o1&utm_term=%25D1%2582%25D1%2583%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B5%25D0%25BD%25D1%2582%25D1%2581%25D1%2582%25D0%25B2%25D0%25BE&gclid=CjwKCAiA9vOABhBfEiwATCi7GFslC7XmV128h4rcDPj-_WfzL78m_xV90RwEsQjSVHOO6Sj4Ylb_-BoCp80QAvD_BwE">here</a></p>
+        </ul>
+    </body>
+</html>
