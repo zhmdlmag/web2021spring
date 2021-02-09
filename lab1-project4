@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body{
+                background-color: pink;
+            }
+            #details{
+                font-family: cursive;
+            }
+            
+            ul {
+                font-weight: bold;
+            }
+            
+            .hey{
+                font-family: cursive;
+                color: red;
+            }
+            
+            #ps {
+                font-size: 10px;
+                background-color: grey;
+                color: white;
+            }
+            
+            .plan {
+                font-style: italic;
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2>To Birthday Party!</h2>
+        
+        <p id = "details">The details:</p>
+        <ul>
+            <li>2 pm at <a href = "https://restoran.kz/bowling/85445-family-bowling"><span class = "plan">bowling</span></a></li>
+            <li>4 pm at <span class = "plan">arcade</span></li>
+            <li>6 pm at <span class = "plan">restaraunt</span></li>
+            <li>8 pm at <span class = "plan">karaoke</span></li>
+        </ul>
+        
+        <p><span class = "hey">Hey! </span> Welcome to my private birthday party only with close friends! I swear it we'll have a lot of fun! So if you are accepting this invitation, please, write me in Telegram :) </p>
+        
+        <p id = "ps">P.S. Don't forget presents! </p>
+        
+    </body>
+</html>
