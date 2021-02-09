@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        h1 {
+            background-color: red;
+            color: white;
+        }
+        
+        #con {
+            font-style: italic;  
+        }
+        
+        #pan {
+            color: orange;
+        }
+        
+        #oml {
+            color: yellow;
+        }
+        
+        #ch {
+            color: pink;
+        }
+        
+        .st {
+            font-style: italic;
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Magzhan's Recipe Book</h1>
+        
+        <h2 id = "con">Contents:</h2>
+        
+        <ol>
+            <li><a href="eda.ru">Pancakes</a></li>
+            <li><a href="eda.ru">Omlette</a></li>
+            <li><a href="eda.ru">Chowder</a></li>
+        </ol>
+        
+        <h2 id="pan">Pancakes</h2>
+        
+        <ul>
+            <li>Time: 30-40 mins</li>
+            <li>Serves: 2-4 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients:<br>
+                        Eggs<br>
+                        Sugar <br>
+                        Salt<br>
+                        Milk<br>
+                        Flour<br>
+                        Oil<br>
+                        Soda
+                        
+                    </th>
+                    <th>Quantity:<br>
+                        2<br>
+                        (3 table spoons) <br>
+                        (1 tea spoon)<br>
+                        (2 cups)<br>
+                        (2 cups)<br>
+                        (0.25 cup)<br>
+                        (1 tea spoon)</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1: </strong>Beat eggs with sugar and salt until foam appears. <br>
+        <strong class = "st">Step 2: </strong>Add a glass of milk, beat well with a whisk, gradually add flour, constantly breaking the lumps with a whisk. <br>
+        <strong class = "st">Step 3: </strong>Repeat the previous step, adding the remaining glasses of milk and flour. <br>
+        <strong class = "st">Step 4: </strong>Pour in vegetable oil (can be replaced with melted butter).<br>
+        <strong class = "st">Step 5: </strong>Extinguish the soda, add to the dough and mix well again. Leave to stand for 5-10 minutes. During this time, preheat the pan. <br>
+        <strong class = "st">Step 6: </strong>Fry over medium heat. As soon as bubbles appear and begin to burst, turn the pancakes over and fry for another 20 seconds. <br>
+</p>
+
+<img src = "https://www.kasandbox.org/programming-images/food/croissant.png" width = "500">
+        
+    
+    
+    <h2 id="oml">Omlette</h2>
+        
+        <ul>
+            <li>Time: 10-20 mins</li>
+            <li>Serves: 1 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients:<br>
+                        Eggs<br>
+                        Salt<br>
+                        Milk<br>
+                        Oil<br>
+                        
+                    </th>
+                    <th>Quantity:<br>
+                        2<br>
+                        pinch<br>
+                        half cup<br>
+                        (0.25 cup)
+               </th> </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong class = "st">Step 1: </strong>Beat eggs with milk and mix <br>
+        <strong class = "st">Step 2: </strong>Add salt <br>
+        <strong>Step 3: </strong>Get ready the pan and pour oil in it. <br>
+        <strong class = "st">Step 4 </strong>Pour out eggs.<br>
+        <strong class = "st">Step 5: </strong>Fry 5-10 mins <br>
+        <strong class = "st">Step 6: </strong>You can add anything you want :) <br>
+</p>
+
+<img src = "https://www.kasandbox.org/programming-images/food/fish_grilled-snapper.png" width = "500">
+
+
+
+<h2 id="ch">Chowder</h2>
+        
+        <ul>
+            <li>Time: 10-20 mins</li>
+            <li>Serves: 1 person</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients:<br>
+                        Flavor<br>
+                        Salt<br>
+                        Milk<br>
+                        Sugar<br>
+                        
+                    </th>
+                    <th>Quantity:<br>
+                        1<br>
+                        pinch<br>
+                        a cup<br>
+                        1 table spoon
+               </th> </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong class = "st">Step 1: </strong>Boil milk <br>
+        <strong class = "st">Step 2: </strong>Add flavor <br>
+        <strong class = "st">Step 3: </strong>Add salt and sugar <br>
+        <strong class = "st">Step 4 </strong>Mix everything<br>
+        <strong class = "st">Step 5: </strong>Cook 5-10 mins <br>
+        <strong class = "st">Step 6: </strong>You can add anything you want :) <br>
+</p>
+
+<img src = "https://www.kasandbox.org/programming-images/food/ice-cream.png" width = "500">
+
+
+
+<p><em>Source: <a href="https://eda.ru/recepty/zavtraki/amerikanskie-bliny-30600">eda.ru</a></em></p>
+    
+    
+    </body>
+</html>
