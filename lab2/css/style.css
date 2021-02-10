@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(240,242,245);
+}
+.fb{
+    margin-top: 180px;
+    margin-left: 230px;
+    
+}
+.welcome{
+    margin-top: 0px;
+    margin-left: 0px;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 28px;
+}
+.square{
+    background-color: white;
+    margin-top: -240px;
+    margin-left: 820px;
+    border-radius: 8px;
+    width: 400px;
+    height: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    box-shadow: 0 0 50px 5px rgba(221, 221, 221, 1);
+}
+.login{
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 360px;
+    height: 45px;
+    border-color: rgb(221,223,226);
+    padding-left: 10px;
+    border-width:1px;
+    border-style: solid;
+}
+.password{
+    margin-top: 15px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 360px;
+    height: 45px;
+    border-color: rgb(221,223,226);
+    padding-left: 10px;
+    border-width:1px;
+    border-style: solid;
+}
+.submit{
+    margin-top: 15px;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 370px;
+    height: 45px;
+    background-color: rgb(24,119,242);
+    color: white;
+    border: none;
+}
+.account{
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+    background-color: rgb(66,183,42);
+    border:none;
+    color: white;
+    margin-top: 20px;
+}
+.forgot{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(24,119,242);
+}
+.company{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-left: 800px;
+}
+hr{
+    width: 90%;
+}
+.bottom{
+    margin-top: 200px;
+    height: 200px;
+    background-color: white;
+}
+.lang{
+    text-align: left    ;
+    color: gray;
+    padding-top: 20px;
+    margin-left: 40px;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    word-spacing: 2px;
+}
+.up{
+    margin-left: 350px;
+    width: 900px;
+}
+
+
+.down{
+    text-align: left    ;
+    color: gray;
+    padding-top: 20px;
+    margin-left: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
